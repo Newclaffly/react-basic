@@ -1,6 +1,5 @@
 import Item from "./Item";
 import "./Transaction.css";
-
 const Transaction = (props) => {
   const { items } = props;
   return (

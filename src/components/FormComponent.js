@@ -46,7 +46,7 @@ const FormComponent = (props) => {
           ></input>
         </div>
         <div className="form-control">
-          <labe>Amount</labe>
+          <label>Amount</label>
           <input
             type="number"
             placeholder="(+ Income, - Expense)"
