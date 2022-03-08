@@ -17,8 +17,8 @@ input:focus{
 }
 
 .btn{
-    background-color: green;
-    color:#ffff;
+    /* background-color: green;
+    color:#ffff; */
     cursor: pointer;
     display: block;
     margin: 10px 0 30px;
