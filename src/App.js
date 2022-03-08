@@ -1,6 +1,7 @@
 import React from "react";
 import Transaction from "./components/Transaction";
 import './App.css'
+import FormComponent from "./components/FormComponent"
 function App() {
   return (
       <>
@@ -8,6 +9,7 @@ function App() {
         <h1>
         Income and Expenses basic-app
         </h1>
+        <FormComponent/>
         <Transaction />
       </div>
       </>
